@@ -3,3 +3,8 @@ Fruits:
 - bananes
 - pommes
 - oranges
+
+Légumes:
+- pommes de terre
+- carottes
+- oignons
