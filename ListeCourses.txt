@@ -1,0 +1,5 @@
+Liste de courses:
+Fruits:
+- bananes
+- pommes
+- oranges
